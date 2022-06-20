@@ -3,3 +3,6 @@ seb
 gio
 jacob
 isaac
+selena
+dotti
+polly
